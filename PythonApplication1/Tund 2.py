@@ -84,10 +84,6 @@ try:
 except:
     print("Sisesta ujukomaarvud!")
 
-#Ülesanne 1
-tana=date.today()
-print(f"Tere! Täna on {tana}")
-
 #Ülesanne 2
 a=3 + 8 / (4 - 2) * 4
 print(f"3 + 8 / (4 - 2) * 4 = {a}") #Оригинальнный пример
@@ -95,6 +91,11 @@ b=3 + 8 / 4 - 2 * 4
 print(f"3 + 8 / 4 - 2 * 4 = {b}") #Убрала скобки
 c=8 / 3 + (4 - 2) * 4
 print(f"8 / 3 + (4 - 2) * 4 = {c}") #Сначала поделила 8 на 3 а после отняла результат в скобках умноженое на 4
+
+
+#Ülesanne 1
+tana=date.today()
+print(f"Tere! Täna on {tana}")
 
 # 27/12/2022
 tana_ = tana.strftime("%d/%m/#Y")
