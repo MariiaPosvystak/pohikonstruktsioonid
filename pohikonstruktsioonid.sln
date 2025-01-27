@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pohikonstruktsioonid", "pohikonstruktsioonid.pyproj", "{393B085A-8BEF-4E64-A007-37E1BF26650B}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tund 1", "PythonApplication1\Tund 1.pyproj", "{BC5B2D98-DFAB-4507-952F-9471872C98E7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tund 2", "PythonApplication2\Tund 2.pyproj", "{3F82CCE7-19C1-4600-AC05-8318C2855299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{393B085A-8BEF-4E64-A007-37E1BF26650B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{393B085A-8BEF-4E64-A007-37E1BF26650B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5B2D98-DFAB-4507-952F-9471872C98E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5B2D98-DFAB-4507-952F-9471872C98E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F82CCE7-19C1-4600-AC05-8318C2855299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F82CCE7-19C1-4600-AC05-8318C2855299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
