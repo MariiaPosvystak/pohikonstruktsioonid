@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tund 2", "Tund 2.pyproj", "{8CA56D5D-8F08-4B01-91AB-2F9AD724CDA4}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vigade-otsing-1", "Vigade-otsing-1\Vigade-otsing-1.pyproj", "{B9E6E506-0F5F-4FE4-878A-4899BD67D5F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8CA56D5D-8F08-4B01-91AB-2F9AD724CDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CA56D5D-8F08-4B01-91AB-2F9AD724CDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E6E506-0F5F-4FE4-878A-4899BD67D5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E6E506-0F5F-4FE4-878A-4899BD67D5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EC694D4B-1E17-4698-A423-2F98748D6BFD}
+		SolutionGuid = {E220E6D5-6F39-4120-AFEB-63CF2658BA4E}
 	EndGlobalSection
 EndGlobal
