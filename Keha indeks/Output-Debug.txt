@@ -1,0 +1,20 @@
+﻿Traceback (most recent call last):
+  File "C:\Program Files\Python39\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Program Files\Python39\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\program files\microsoft visual studio\2022\community\common7\ide\extensions\microsoft\python\core\debugpy\__main__.py", line 39, in <module>
+    cli.main()
+  File "c:\program files\microsoft visual studio\2022\community\common7\ide\extensions\microsoft\python\core\debugpy/..\debugpy\server\cli.py", line 430, in main
+    run()
+  File "c:\program files\microsoft visual studio\2022\community\common7\ide\extensions\microsoft\python\core\debugpy/..\debugpy\server\cli.py", line 284, in run_file
+    runpy.run_path(target, run_name="__main__")
+  File "c:\program files\microsoft visual studio\2022\community\common7\ide\extensions\microsoft\python\core\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 320, in run_path
+The thread 1 has exited with code 0 (0x0).
+    code, fname = _get_code_from_file(run_name, path_name)
+  File "c:\program files\microsoft visual studio\2022\community\common7\ide\extensions\microsoft\python\core\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 294, in _get_code_from_file
+    code = compile(f.read(), fname, 'exec')
+  File "C:\Users\opilane\source\repos\Mariia Posvystak TARpv24\Keha indeks\Tsükkel.py", line 1
+    print("Tere! Olen sinu uus s�ber - Python")
+                                              ^
+SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0xf5 in position 21: invalid start byte
